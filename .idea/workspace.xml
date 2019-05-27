@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a4e26cb-c037-4020-9df7-5bce2f94fb1f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FTIR-ATR-data-processing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/FTIR-ATR-data-processing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FTIRfunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/FTIRfunctions.py" afterDir="false" />
-    </list>
+    <list default="true" id="ad76ee40-30ba-4f1e-9045-b8cd7fc323ce" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,15 +9,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FTIRfunctions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="161" column="53" selection-start-line="161" selection-start-column="53" selection-end-line="161" selection-end-column="53" />
-              <folding>
-                <element signature="e#49#80#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="188">
+              <caret line="148" column="65" lean-forward="true" selection-start-line="148" selection-start-column="65" selection-end-line="148" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -141,7 +134,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="696" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.19157393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24960254" />
@@ -176,11 +169,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/FTIRfunctions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="161" column="53" selection-start-line="161" selection-start-column="53" selection-end-line="161" selection-end-column="53" />
-          <folding>
-            <element signature="e#49#80#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="188">
+          <caret line="148" column="65" lean-forward="true" selection-start-line="148" selection-start-column="65" selection-end-line="148" selection-end-column="65" />
         </state>
       </provider>
     </entry>
